@@ -113,12 +113,12 @@ const MEMORIES = [
    icon: wave | shell | star | compass | anchor | heart
    text: isi ucapannya                                            */
 const WISHES = [
-  { icon: "wave",    text: "I want to be the person who hears about your day, even the parts that feel completely insignificant to anyone else." },
-  { icon: "shell",   text: "I want to celebrate your little wins with you, and be there to listen when the day hasn't been kind." },
-  { icon: "star",    text: "I want to remind you to eat when you forget, and tell you how pretty you are even when you don't believe me." },
-  { icon: "compass", text: "I want to stay beside you through the good days and the messy ones, no matter which one shows up first." },
-  { icon: "anchor",  text: "I can't promise I'll always know the perfect thing to say, or that I'll never be a little annoying — but I promise I'll always try." },
-  { icon: "heart",   text: "so, Shanay... after all the conversations, all the teasing, and all the feelings I've slowly grown to have for you — can I be your boyfriend?" },
+  { icon: "wave",    text: "I Wish we could become each other’s safe place. Someone you can always come home to, whether you’re having the best day or the worst one. I want you to feel like you can be completely yourself with me." },
+  { icon: "shell",   text: "I Wish we could make countless little memories together. Late night talks, stupid jokes, and all those simple moments that somehow become our favorites." },
+  { icon: "star",    text: "I Wish I could always make you feel loved. I want you to know how beautiful and precious you are, not only through my words, but through the way I treat you and choose you every day." },
+  { icon: "compass", text: "I Wish we could grow together.I want to support your dreams, celebrate your achievements, and be there whenever you need someone to remind you that you can do it." },
+  { icon: "anchor",  text: "I Wish we could get through the hard days together. We won’t always be perfect, but I hope we’ll always choose communication, understanding, and each other instead of giving up." },
+  { icon: "heart",   text: "I Wish this “yes” could be the beginning of something real. Something we build slowly, sincerely, and together. I don’t know where this journey will take us, but I’d love to find out with you." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
